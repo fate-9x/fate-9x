@@ -39,6 +39,8 @@ A floating taskbar for Windows with a companion character that follows your curs
 shows your notifications. It holds your apps, app groups, a text vault for one-click copy and the clock, and its
 Pro version can fully replace the Windows taskbar. Extensible with addons.
 
+<a href="https://apps.microsoft.com/detail/9p30lccpkgnc?hl=es-ES&gl=PY"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="180" /></a>
+
 ### Nook Launcher <sub>(private)</sub>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
